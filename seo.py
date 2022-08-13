@@ -1,4 +1,5 @@
 # SEO By: Euronymou5
+# SEO en fase de desarrollo (v1.0)
 
 import os
 import requests
