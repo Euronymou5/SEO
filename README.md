@@ -55,3 +55,10 @@ python3 seo.py
 
 # Imagenes
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007571938736082985/unknown.png?width=395&height=365">
+
+# Contacto
+**Discord: Euronymou5#3155**
+
+**Twitter: https://twitter.com/Euronymou51**
+
+**Reporte de errores o bugs? favor de mandarme mensaje a discord o a mi twitter**
