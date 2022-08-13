@@ -28,6 +28,8 @@ python3 seo.py
 
 # Intelligence X
 
+**Primero nos crearemos una cuenta en Intelligence X: https://intelx.io/signup**
+
 **Cuando nos hayamos creado una cuenta en Intelligence X entramos a la seccion Developer:**
 
 **https://intelx.io/account#developer**
