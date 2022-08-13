@@ -3,6 +3,7 @@ SEO (Scorpion Email Osint) es una herramienta de osint para un correo electronic
 
 # Uso e Instalacion:
 **Kali Linux / Parrot OS / Termux**
+** Compatibilidad con Black Arch Linux!**
 ```bash
 git clone https://github.com/Euronymou5/SEO
 ```
