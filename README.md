@@ -34,7 +34,7 @@ python3 seo.py
 
 **Despues la pegaremos en el archivo config.py dentro de las comillas de verify_email:**
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1007864623367725087/unknown.png?width=121&height=16">
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007864977383764068/unknown.png?width=239&height=83">
 
 **[Intelligence X](https://intelx.io/)**
 
