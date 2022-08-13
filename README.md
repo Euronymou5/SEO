@@ -54,7 +54,7 @@ python3 seo.py
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007866173272109106/unknown.png?width=206&height=41">
 
 # Imagenes
-<img src="https://media.discordapp.net/attachments/995599976463859713/1007571938736082985/unknown.png?width=395&height=365">
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382">
 
 # Contacto
 **Discord: Euronymou5#3155**
