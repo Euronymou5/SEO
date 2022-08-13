@@ -21,6 +21,7 @@ python3 seo.py
 # Configuracion de APIkeys
 **Antes de usar la herramienta tendremos que colocar nuestras APIkeys de las paginas:**
 
+**[Intelligence X](https://intelx.io/)**
 
 **[Verifymail.io](https://verifymail.io/)**
 
@@ -35,8 +36,6 @@ python3 seo.py
 **Despues la pegaremos en el archivo config.py dentro de las comillas de verify_email:**
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007865575176949870/unknown.png?width=227&height=43">
-
-**[Intelligence X](https://intelx.io/)**
 
 # Intelligence X
 
