@@ -1,5 +1,5 @@
 # SEO
-SEO (Scorpion Email Osint) es una herramienta de osint para un correo electronico.
+**SEO (Scorpion Email Osint) es una herramienta de osint para un correo electronico.**
 
 # Uso e Instalacion:
 **Kali Linux / Parrot OS / Termux**
