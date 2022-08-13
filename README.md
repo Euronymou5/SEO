@@ -61,4 +61,6 @@ python3 seo.py
 
 **Twitter: https://twitter.com/Euronymou51**
 
-**Reporte de errores o bugs? favor de mandarme mensaje a discord o a mi twitter**
+**Reporte de errores o bugs? favor de contactarme**
+
+**Sugerencias? a mi discord o twitter*
