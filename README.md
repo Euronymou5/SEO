@@ -30,7 +30,7 @@ python3 seo.py
 
 **https://intelx.io/account#developer**
 
-**Ahi copiaremos donde dice APIkey:**
+**Ahi copiaremos donde dice Key:**
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007855445249101945/unknown.png?width=332&height=74">
 
