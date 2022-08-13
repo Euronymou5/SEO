@@ -50,5 +50,9 @@ python3 seo.py
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007855445249101945/unknown.png?width=332&height=74">
 
+**Despues la pegaremos en el archivo config.py dentro de las comillas de intel_api:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007866173272109106/unknown.png?width=206&height=41">
+
 # Imagenes
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007571938736082985/unknown.png?width=395&height=365">
