@@ -63,4 +63,4 @@ python3 seo.py
 
 **Reporte de errores o bugs? favor de contactarme**
 
-**Sugerencias? a mi discord o twitter*
+*Sugerencias? a mi discord o twitter*
