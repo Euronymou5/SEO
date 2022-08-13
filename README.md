@@ -24,6 +24,18 @@ python3 seo.py
 
 **[Verifymail.io](https://verifymail.io/)**
 
+# Verifymail.io
+
+**Primero nos crearemos una cuenta en verifynail.io: **
+
+**Cuando nos hayamos creado una cuenta en Verifymail.io nos mandara a la seccion Dashboard ahi copiaremos nuestra APIkey:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007864227010195526/unknown.png?width=327&height=88">
+
+**Despues la pegaremos en el archivo config.py dentro de las comillas de verify_email:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007864623367725087/unknown.png?width=121&height=16">
+
 **[Intelligence X](https://intelx.io/)**
 
 # Intelligence X
