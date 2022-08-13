@@ -26,6 +26,8 @@ python3 seo.py
 
 **[Intelligence X](https://intelx.io/)**
 
+# Intelligence X
+
 **Cuando nos hayamos creado una cuenta en Intelligence X entramos a la seccion Developer:**
 
 **https://intelx.io/account#developer**
