@@ -31,6 +31,7 @@ python3 seo.py
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007850255414481037/unknown.png?width=119&height=48">
 
 **Y despues iremos a la seccion Developer:**
+
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007850648437538826/unknown.png?width=100&height=31">
 
 # Imagenes
