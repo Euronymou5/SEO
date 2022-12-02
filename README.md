@@ -1,6 +1,8 @@
 # SEO
 **SEO (Scorpion Email Osint) es una herramienta de osint para un correo electronico.**
 
+**SEO (Scorpion Email Osint) is an osint tool for an email.**
+
 # Repository review:
 - [Verifymail (Español / Spanish)](https://github.com/Euronymou5/SEO#verifymailio)
 - [Intelligence X (Español / Spanish)](https://github.com/Euronymou5/SEO#intelligence-x)
