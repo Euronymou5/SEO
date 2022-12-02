@@ -7,7 +7,7 @@ import time
 from googlesearch import search
 import random
 import json
-from verify_email import verify_email as email_verify
+import re
 from config import intel_api, verify_email
 
 class Colores:
@@ -55,12 +55,12 @@ def main():
     time.sleep(3)
     main()
   else:
-    var = email_verify(email)
-    if var == True:
-     print(f'\n[?] Valido: Email valido')
-    elif var == False:
-     print(f'\n{Colores.rojo}[?] Valido: Email invalido')
-     exit()
+    regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+    if (re.fullmatch(regex, email)):
+      print('\n[?] Valido: Email valido')
+    else:
+      print(f'\n{Colores.rojo}[?] Valido: Email invalido')
+      exit()
     response = requests.get(f'https://verifymail.io/api/{email}?key={verify_email}')
     data = json.loads(response.content.decode())
     time.sleep(1)
