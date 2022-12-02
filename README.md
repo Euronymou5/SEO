@@ -61,6 +61,27 @@ python3 seo.py
 # Imagenes
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382">
 
+--------------------
+
+# APIkeys configuration
+**Before using the tool we will have to place our APIkeys of the pages:**
+
+**[Intelligence X](https://intelx.io/)**
+
+**[Verifymail.io](https://verifymail.io/)**
+
+# Verifymail.io
+
+**First we will create an account at verifymail.io: https://verifymail.io/signup**
+
+**When we have created an account in Verifymail.io it will send us to the Dashboard section there we will copy our APIkey:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007864227010195526/unknown.png?width=327&height=88">
+
+**Then we will paste it in the config.py file inside the quotes of verify_email:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007865575176949870/unknown.png?width=227&height=43">
+
 # Contacto
 **Discord: Euronymou5#3155**
 
