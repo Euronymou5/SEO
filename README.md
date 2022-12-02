@@ -5,6 +5,8 @@
 - [Verifymail (Español / Spanish)](https://github.com/Euronymou5/SEO#verifymailio)
 - [Intelligence X (Español / Spanish)](https://github.com/Euronymou5/SEO#intelligence-x)
 - [Configuracion de APIkeys](https://github.com/Euronymou5/SEO#configuracion-de-apikeys)
+- [APIkeys configuration (English)](https://github.com/Euronymou5/SEO#apikeys-configuration)
+- [Verifymail (English)](https://github.com/Euronymou5/SEO#verifymailio-1)
 
 # Uso e Instalacion:
 **Kali Linux / Parrot OS / Termux**
