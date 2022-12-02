@@ -85,9 +85,9 @@ def main():
     tld = random.choice(dom)
     command = f'intext:{email}' # Simple busqueda de dorking intext
     command2 = f"site:@ filetype:PDF intext:{email}" # Busqueda de el email en archivos .pdf 
-    command3 = f"site:facebook.com intext:{email}"
-    command4 = f"site:twitter.com intext:{email}"
-    command5 = f"site:instagram.com intext:{email}"
+    command3 = f"site:facebook.com intext:{email}" # Busqueda del email en facebook
+    command4 = f"site:twitter.com intext:{email}" # Busqueda del email en twitter
+    command5 = f"site:instagram.com intext:{email}" # Busqueda del email en instagram
     for j in search(command, tld, num=10, stop=10, pause=2):
      print(f'\nResultados encontrados!: {j}')
     print('\n[~] Buscando email en archivos pdf...')
