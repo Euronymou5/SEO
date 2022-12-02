@@ -1,6 +1,5 @@
 google
 requests
-verify-email
 socialscan
 h8mail
 pygments
