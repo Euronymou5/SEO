@@ -86,6 +86,22 @@ python3 seo.py
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007865575176949870/unknown.png?width=227&height=43">
 
+## Intelligence X
+
+**First we will create an account in Intelligence X: https://intelx.io/signup**
+
+**When we have created an account in Intelligence X we enter the Developer section:**
+
+**https://intelx.io/account#developer**
+
+**There we will copy where it says Key:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007855445249101945/unknown.png?width=332&height=74">
+
+**Then we will paste it in the config.py file inside the intel_api quotes:**
+
+<img src="https://media.discordapp.net/attachments/995599976463859713/1007866173272109106/unknown.png?width=206&height=41">
+
 # Contacto
 **Discord: Euronymou5#3155**
 
