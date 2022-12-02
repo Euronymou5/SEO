@@ -63,6 +63,8 @@ python3 seo.py
 
 --------------------
 
+## Installation in English:
+
 # APIkeys configuration
 **Before using the tool we will have to place our APIkeys of the pages:**
 
