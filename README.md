@@ -114,7 +114,7 @@ python3 seo_en.py
 | -------------- | ---------------------- |   
 |![Index](https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382)|![f](https://media.discordapp.net/attachments/995599976463859713/1048349290675847198/image.png?width=422&height=374)
 
-# Contacto
+# Contacto / Contact
 **Discord: Euronymou5#3155**
 
 **Twitter: https://twitter.com/Euronymou51**
