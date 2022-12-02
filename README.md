@@ -69,9 +69,6 @@ python3 seo_en.py
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007866173272109106/unknown.png?width=206&height=41">
 
-# Imagenes
-<img src="https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382">
-
 --------------------
 
 ## Installation in English:
