@@ -24,7 +24,12 @@ cd SEO
 pip3 install -r requirements.txt
 ```
 ```bash
+
+# Version en español / Spanish version:
 python3 seo.py
+
+# Version en ingles / English Version:
+python3 seo_en.py
 ```
 
 # Configuracion de APIkeys
