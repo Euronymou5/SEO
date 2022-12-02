@@ -110,9 +110,9 @@ python3 seo_en.py
 <img src="https://media.discordapp.net/attachments/995599976463859713/1007866173272109106/unknown.png?width=206&height=41">
 
 # Imagenes / Images:
-| Black Arch Linux SEO Menu | Linux Debian SEO Menu |	
+| Spanish Version | English Version |	
 | -------------- | ---------------------- |   
-|![Index](https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382)|![f](https://media.discordapp.net/attachments/995599976463859713/1048347545836986418/image.png?width=378&height=362)
+|![Index](https://media.discordapp.net/attachments/995599976463859713/1007888782613282826/seo.png?width=377&height=382)|![f](https://media.discordapp.net/attachments/995599976463859713/1048349290675847198/image.png?width=422&height=374)
 
 # Contacto
 **Discord: Euronymou5#3155**
