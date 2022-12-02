@@ -71,9 +71,9 @@ python3 seo_en.py
 
 --------------------
 
-## Installation in English:
+# Installation in English:
 
-# APIkeys configuration
+## APIkeys configuration
 **Before using the tool we will have to place our APIkeys of the pages:**
 
 **[Intelligence X](https://intelx.io/)**
